@@ -2,7 +2,7 @@
   "name": "test",
   "description": "test",
   "version": "0.0.1",
-  "main": "bot.js",
+  "main": "music.js",
   "scripts": {
     "start": "node bot.js"
   },
